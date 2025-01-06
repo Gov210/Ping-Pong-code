@@ -42,7 +42,7 @@ center = screen.get_rect().center
 #score and font
 score1 = 0
 score2 = 0
-max_score = 1
+max_score = 7
 font = pygame.font.Font(None, 60)
 
 #move ball function
